@@ -1,0 +1,27 @@
+{
+  "name": "snippet",
+  "version": "0.1.0",
+  "description": "KB Signing Test",
+  "main": "snippet.js",
+  "dependencies": {
+    "kbpgp": ">=2.0.15"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node snippet.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jzila/kb-signin.git"
+  },
+  "keywords": [
+    "keybase",
+    "signin",
+    "login"
+  ],
+  "author": "jzila",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jzila/kb-signin/issues"
+  }
+}
